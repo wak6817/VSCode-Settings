@@ -43,6 +43,7 @@ My Visual Studio Code `settings.json`
 | Extension | Creator |
 | :--- | :--- |
 | Catppuccin Pack | Catppuccin |
+| Material Product Icons | Philipp Kief |
 | CodeSnap | adpyke |
 | vscode-pets | Anthony Shaw |
 

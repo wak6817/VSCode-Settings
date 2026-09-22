@@ -1,5 +1,5 @@
 # VSCode-Settings
-My Visual Studio Code settings.json
+My Visual Studio Code `settings.json`
 
 ## Extentions
 
